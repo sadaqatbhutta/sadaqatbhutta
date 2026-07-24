@@ -3,7 +3,7 @@
 <h3 align="center">Python Developer | Backend Systems & Data Processing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+real-world+applications;Backend+%7C+Data+Processing+%7C+Automation;Fake+News+Detection+%7C+ML+enthusiast;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  Building real-world applications • Backend | Data Processing | Automation • Fake News Detection & ML enthusiast
 </p>
 
 <p align="center">
@@ -27,6 +27,7 @@
 - 🏗️ Always looking to **build practical, production-ready applications**
 - 📍 Based in **Lahore, Pakistan**
 - 🌱 Currently exploring new tools in data & backend engineering
+- 🏢 Member of [**Daria Technologies**](https://github.com/dariatechnologies)
 
 ---
 
@@ -38,28 +39,36 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-<a href="https://github.com/sadaqatbhutta/QR-Code-Generator">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sadaqatbhutta&repo=QR-Code-Generator&theme=tokyonight" />
-</a>
+| Project | Description |
+|---|---|
+| 🔗 [**QR-Code-Generator**](https://github.com/sadaqatbhutta/QR-Code-Generator) | Full-stack Next.js QR code generator — 24 content types, custom styling, batch export, scanner, dynamic link analytics |
+| 🛍️ [**snap_shop**](https://github.com/sadaqatbhutta/snap_shop) | E-commerce / shopping project |
+| 💳 [**installment-manager**](https://github.com/sadaqatbhutta/installment-manager) | System for managing installment-based payments |
+| 🌉 [**bridge_routine**](https://github.com/sadaqatbhutta/bridge_routine) | Backend/automation utility project |
+| 💼 [**portfolio**](https://github.com/sadaqatbhutta/portfolio) | Personal developer portfolio website |
 
-**QR Pro Studio** — a full-stack Next.js QR code generator with 24 content types, custom styling, batch export, scanner, and dynamic link analytics.
-
-<br clear="left"/>
+> Replace the descriptions above with a one-line summary of each repo if you'd like more accurate details.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sadaqatbhutta&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaqatbhutta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadaqatbhutta&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadaqatbhutta&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadaqatbhutta&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadaqatbhutta&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sadaqatbhutta&theme=tokyonight&hide_border=true" />
+</p>
+
+> Note: GitHub stats badge services (Vercel-hosted) occasionally go down since they're free public tools. If any card above shows broken, wait a few minutes and refresh — GitHub re-caches these automatically.
 
 ---
 
