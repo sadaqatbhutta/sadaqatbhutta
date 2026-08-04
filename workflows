@@ -2,11 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs once a day
+    - cron: "0 0 * * *" # runs once a day (midnight UTC)
   workflow_dispatch: {}
   push:
     branches:
       - main
+
+concurrency:
+  group: generate-snake-animation
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -15,6 +19,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -28,5 +35,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update generated snake animation - ${{ github.run_id }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
