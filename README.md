@@ -20,7 +20,7 @@
   <a href="https://sardarsadaqatkhan32559.com.pk" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:sadaqat@example.com" target="_blank">
+  <a href="mailto:sadaqatxbhutta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
