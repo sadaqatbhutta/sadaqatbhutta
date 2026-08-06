@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20Python%20%7C%20Data-0A66C2?style=flat-square" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-informational?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_to_Work-Backend_Python_Data-0A66C2?style=flat-square" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Location-Lahore,_Pakistan-informational?style=flat-square" alt="Location" />
 </p>
 
 ---
@@ -73,28 +73,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadaqatbhutta&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadaqatbhutta&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadaqatbhutta&theme=tokyonight" alt="Most Commit Language" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=sadaqatbhutta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sadaqatbhutta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sadaqatbhutta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaqatbhutta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadaqatbhutta&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -103,9 +87,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadaqatbhutta/sadaqatbhutta/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadaqatbhutta/sadaqatbhutta/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sadaqatbhutta/sadaqatbhutta/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sadaqatbhutta/sadaqatbhutta@output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sadaqatbhutta/sadaqatbhutta@output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/sadaqatbhutta/sadaqatbhutta@output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -148,5 +132,3 @@ Open to **backend / Python / data** roles and collaborations. Feel free to reach
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadaqatbhutta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-> Note: GitHub stats / snake badges depend on external services and the `output` branch. After the first Actions run, the snake animation will appear automatically.
