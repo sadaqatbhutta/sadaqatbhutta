@@ -1,6 +1,6 @@
-<!-- Premium header (hosted in-repo — GitHub camo breaks capsule-render SVGs) -->
+<!-- Premium animated header -->
 <p align="center">
-  <img src="./assets/header-banner.png" alt="Sadaqat Ali Bhutta — AI Engineer & Backend Architect" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,70:7c3aed,100:58a6ff&height=220&section=header&text=Sadaqat%20Ali%20Bhutta&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%26%20Backend%20Architect&descAlignY=52&descSize=18" alt="Header" />
 </p>
 
 <h1 align="center">Hi, I'm Sadaqat Ali Bhutta 👋</h1>
@@ -217,5 +217,5 @@ Full-stack QR platform with **24+ content types**, styling studio, batch export,
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,70:7c3aed,100:58a6ff&height=140&section=footer" alt="Footer" />
 </p>
